@@ -1,6 +1,7 @@
 {
 	"name" : "cape/BorisZF2",
 	"keywords" : ['cape', 'boris', 'ZendFramwework','console'],
+	"version":"1.0.0",
 	"require" : {
 		"d11wtq/boris" : "dev-master",
 		"zendframework/zendframework" : "2.2.1",
