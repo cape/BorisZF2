@@ -1,5 +1,5 @@
 {
-	"name" : "cape/BorisZF2",
+	"name" : "cape/boriszf2",
 	"keywords" : ["cape", "boris", "ZendFramwework","console"],
 	"version":"1.0.0",
 	"require" : {
