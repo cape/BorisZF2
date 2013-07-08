@@ -1,6 +1,6 @@
 {
 	"name" : "cape/BorisZF2",
-	"keywords" : ['cape', 'boris', 'ZendFramwework','console'],
+	"keywords" : ["cape", "boris", "ZendFramwework","console"],
 	"version":"1.0.0",
 	"require" : {
 		"d11wtq/boris" : "dev-master",
