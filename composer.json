@@ -1,6 +1,7 @@
 {
 	"name" : "cape/boriszf2",
 	"keywords" : ["cape", "boris", "ZendFramwework","console"],
+	"description" : "Implementation of boris to be used with a zf2 application",
 	"version":"1.0.0",
 	"require" : {
 		"d11wtq/boris": ">=v1.0.2",
@@ -10,7 +11,9 @@
 	"autoload" : {
 		"psr-0" : {
 			"BorisZF2" : "src/BorisZF2"
-		}
-
+		},
+		"classmap" : [
+			"./Module.php"
+		]
 	}
 }
